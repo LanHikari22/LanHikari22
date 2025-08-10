@@ -14,7 +14,7 @@ Towards this goal, I have decided to make many of my notes for open source devel
 - For tooling, system setups, and diagnostics, see [lan-setup-notes](<https://github.com/LanHikari22/lan-setup-notes>).
 - For reverse engineering work, see [dism-exe-notes](<https://github.com/dism-exe/dism-exe-notes/tree/main/lan>), [goldensun-notes](<https://github.com/FutureFractal/goldensun-notes/tree/main/lan>).
 
-all these note repositories use [obsidian](<https://obsidian.md/>). They can also largely be viewed in github. Switch to `webview` branch for higher browser viewing compatibility.
+all these note repositories use [obsidian](<https://obsidian.md/>). They can also largely be viewed in github. Switch to the `webview` branch for higher browser viewing compatibility.
 
 ## Upcoming works
 
