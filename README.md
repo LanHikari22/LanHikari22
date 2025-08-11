@@ -48,7 +48,14 @@ For example, to get started quickly reading/writing [Rusty Object Notation](<htt
 git clone https://github.com/LanHikari22/rs_repro.git && cd rs_repro && cargo run --features "repro003"
 ```
 
+## Fun Stats
+
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LanHikari22)](https://github.com/LanHikari22) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LanHikari22&hide=Assembly,LLVM)](https://github.com/LanHikari22)<br>                                               |
+| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| With Assembly and LLVM (Reconstruction projects)                                                                           | Without Assembly and LLVM                                                                                                                                                                       |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=LanHikari22&border_radius=6)](https://github.com/LanHikari22)      | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LanHikari22&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github) |
 
 ## Contact
 
 Feel free to contact me at mailto:lanhikarixx@gmail.com. For comments, critiques, issues, or collaboration requests, please add "GITCHAT" to the email title. For business inquiries, please add "GITBUSINESS" to the email title.
+
