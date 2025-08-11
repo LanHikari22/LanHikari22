@@ -48,6 +48,8 @@ For example, to get started quickly reading/writing [Rusty Object Notation](<htt
 git clone https://github.com/LanHikari22/rs_repro.git && cd rs_repro && cargo run --features "repro003"
 ```
 
+Check my [portfolio](https://github.com/delta-domain-rnd/delta-trace/blob/webview/lan/portfolio/Projects.md) for more!
+
 ## Fun Stats
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LanHikari22)](https://github.com/LanHikari22) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LanHikari22&hide=Assembly,LLVM)](https://github.com/LanHikari22)<br>                                               |
