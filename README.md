@@ -57,6 +57,8 @@ Check my [projects](https://github.com/delta-domain-rnd/delta-trace/blob/webview
 | With Assembly and LLVM (Reconstruction projects)                                                                           | Without Assembly and LLVM                                                                                                                                                                       |
 | [![GitHub Streak](https://streak-stats.demolab.com?user=LanHikari22&border_radius=6)](https://github.com/LanHikari22)      | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LanHikari22&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github) |
 
+[![LanHikari22's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LanHikari22&theme=tokyo-night&hide_border=true)
+
 ## Contact
 
 Feel free to contact me at mailto:lanhikarixx@gmail.com. For comments, critiques, issues, or collaboration requests, please add "GITCHAT" to the email title. For business inquiries, please add "GITBUSINESS" to the email title.
