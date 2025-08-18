@@ -18,7 +18,7 @@ all these note repositories use [obsidian](<https://obsidian.md/>). They can als
 
 ## Upcoming works
 
-### [dbmint](<https://github.com/LanHikari22/dbmint>)
+### [dbmint](https://github.com/LanHikari22/dbmint)
 
 This project builds on top of the [dbml](<https://dbml.dbdiagram.io/home/>) file format for creating database schemas and generating sqlite3 databases from them. 
 
@@ -26,7 +26,7 @@ Currently working on generating a rust project that integrates schema informatio
 
 ## Projects
 
-### [bn6f](<https://github.com/dism-exe/bn6f>)
+### [bn6f](https://github.com/dism-exe/bn6f)
 
 Reverse engineering Mega Man Battle Network 6. This reproduces the original game data from source code. It also has many derivative projects for tooling and analysis
 
@@ -57,7 +57,7 @@ Check my [projects](https://github.com/delta-domain-rnd/delta-trace/blob/webview
 | With Assembly and LLVM (Reconstruction projects)                                                                           | Without Assembly and LLVM                                                                                                                                                                       |
 | [![GitHub Streak](https://streak-stats.demolab.com?user=LanHikari22&border_radius=6)](https://github.com/LanHikari22)      | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LanHikari22&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github) |
 
-[![LanHikari22's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LanHikari22&theme=tokyo-night&hide_border=true)
+![LanHikari22's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LanHikari22&theme=tokyo-night&hide_border=true)
 
 ## Contact
 
