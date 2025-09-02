@@ -49,7 +49,7 @@ For example, to get started quickly reading/writing [Rusty Object Notation](http
 git clone https://github.com/LanHikari22/rs_repro.git && cd rs_repro && cargo run --features "repro003"
 ```
 
-Check my [projects](https://github.com/deltatraced/delta-trace/blob/webview/lan/portfolio/Projects.md) for more!
+Check my [projects](https://github.com/deltatraced/delta-trace/blob/webview/lan/portfolio/Projects.md) for more! You can also check my [monthly overview](https://github.com/deltatraced/delta-trace/blob/webview/lan/overview/monthly/2025/Mn%2009%20September.md)!
 
 ## Fun Stats
 
