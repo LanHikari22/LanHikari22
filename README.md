@@ -8,7 +8,7 @@ I'm a computer engineer. I create open source tools, reverse engineer games, and
 
 I care about increasing visibility into the creative process of software development and scientific investigations.
 
-Towards this goal, I have decided to make many of my notes for open source development public. These are journals I write as I research, develop and investigate. 
+Towards this goal, I have decided to make many of my notes for open source development public. These are journals I write as I research, develop, and investigate. 
 
 - For concept exploration, see [delta-trace](https://github.com/deltatraced/delta-trace/tree/webview).
 - For tooling, system setups, and diagnostics, see [lan-setup-notes](https://github.com/LanHikari22/lan-setup-notes/tree/webview).
