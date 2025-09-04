@@ -17,6 +17,15 @@ Towards this goal, I have decided to make many of my notes for open source devel
 
 all these note repositories use [obsidian](https://obsidian.md/). They can also largely be viewed in github via the `webview` branch.
 
+## Overview
+
+- Check out my [monthly overview](https://github.com/deltatraced/delta-trace/blob/webview/lan/overview/monthly/2025/Mn%2009%20September.md)!
+- Check out my [projects](https://github.com/deltatraced/delta-trace/blob/webview/lan/portfolio/Projects.md)!
+
+## Contact
+
+Feel free to contact me at mailto:lanhikarixx@gmail.com!
+
 ## Upcoming works
 
 ### [dbmint](https://github.com/LanHikari22/dbmint)
@@ -49,8 +58,6 @@ For example, to get started quickly reading/writing [Rusty Object Notation](http
 git clone https://github.com/LanHikari22/rs_repro.git && cd rs_repro && cargo run --features "repro003"
 ```
 
-Check my [projects](https://github.com/deltatraced/delta-trace/blob/webview/lan/portfolio/Projects.md) for more! You can also check my [monthly overview](https://github.com/deltatraced/delta-trace/blob/webview/lan/overview/monthly/2025/Mn%2009%20September.md)!
-
 ## Fun Stats
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LanHikari22)](https://github.com/LanHikari22) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LanHikari22&hide=Assembly,LLVM)](https://github.com/LanHikari22)<br>                                               |
@@ -59,7 +66,3 @@ Check my [projects](https://github.com/deltatraced/delta-trace/blob/webview/lan/
 | [![GitHub Streak](https://streak-stats.demolab.com?user=LanHikari22&border_radius=6)](https://github.com/LanHikari22)      | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LanHikari22&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github) |
 
 ![LanHikari22's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LanHikari22&theme=tokyo-night&hide_border=true)
-
-## Contact
-
-Feel free to contact me at mailto:lanhikarixx@gmail.com!
