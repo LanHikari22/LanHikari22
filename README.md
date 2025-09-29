@@ -19,7 +19,7 @@ all these note repositories use [obsidian](https://obsidian.md/). They can also 
 
 ## Overview
 
-- Check out my [monthly overview](https://github.com/deltatraced/delta-trace/blob/webview/lan/overview/monthly/2025/Mn%2009%20September.md)!
+- Check out my [monthly overview](https://github.com/deltatraced/delta-trace/blob/webview/lan/overview/monthly/2025/Mn%2010%20October.md)!
 - Check out my [projects](https://github.com/deltatraced/delta-trace/blob/webview/lan/portfolio/Projects.md)!
 
 ## Contact
