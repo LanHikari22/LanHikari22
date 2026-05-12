@@ -4,7 +4,7 @@ I'm Mohammed. I also go by Lan in this digital space we share.
 
 I'm a computer engineer. My current interests are in reverse engineering software, embedded system design, software verification, and mathematics.
 
-I am currently learning about the proof assistant Cubical Agda, and formalizing mathematical analysis alongisde it. 
+I am currently learning about the proof assistant Cubical Agda, and formalizing mathematical analysis alongside it. 
 
 ## Sharing my process
 
