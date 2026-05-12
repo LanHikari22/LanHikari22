@@ -2,61 +2,25 @@
 
 I'm Mohammed. I also go by Lan in this digital space we share.
 
-I'm a computer engineer. I create open source tools, reverse engineer games, and create proofs of concepts. 
+I'm a computer engineer. My interests are in reverse engineering software, embedded system design, software verification, and mathematics.
 
-## On Visibility
+I am currently learning about the proof assistant Cubical Agda, and formalizing mathematical analysis alongisde it. 
+
+## Sharing my process
 
 I care about increasing visibility into the creative process of software development and scientific investigations.
 
-Towards this goal, I have decided to make many of my notes for open source development public. These are journals I write as I research, develop, and investigate. 
+Towards this goal, I have decided to make many of my notes for open source development public. These are journals I write as I research, develop, study, and investigate. 
 
-- For concept exploration, see [delta-trace](https://github.com/deltatraced/delta-trace/tree/webview).
-- For tooling, system setups, and diagnostics, see [lan-setup-notes](https://github.com/LanHikari22/lan-setup-notes/tree/webview).
-- For reverse engineering work, see [dism-exe-notes](https://github.com/dism-exe/dism-exe-notes/tree/webview/lan), [goldensun-notes](https://github.com/FutureFractal/goldensun-notes/tree/webview/lan).
-- For Rust database tooling with dbmint, see [dbmint-notes](https://github.com/dbmint/dbmint-notes/tree/webview).
+The main work for this can be found in the repository [delta-trace](https://github.com/deltatraced/delta-trace/tree/webview) which contains notes on many topics and points to other similar note repositories. You can check categories like posts and projects [here](https://github.com/deltatraced/delta-trace/blob/webview/lan/wiki/2026/001%20Wiki%20Categories/001%20Wiki%20Categories.md).
 
-all these note repositories use [obsidian](https://obsidian.md/). They can also largely be viewed in github via the `webview` branch.
-
-## Overview
-
-- Check out my [monthly overview](https://github.com/deltatraced/delta-trace/blob/webview/lan/overview/monthly/2025/Mn%2010%20October.md)!
-- Check out my [projects](https://github.com/deltatraced/delta-trace/blob/webview/lan/portfolio/Projects.md)!
+The note repositories use [obsidian](https://obsidian.md/). They can also largely be viewed in github via the `webview` branch.
 
 ## Contact
 
 Feel free to contact me at mailto:lanhikarixx@gmail.com!
 
-## Upcoming works
-
-### [dbmint](https://github.com/LanHikari22/dbmint)
-
-This project builds on top of the [dbml](https://dbml.dbdiagram.io/home/) file format for creating database schemas and generating sqlite3 databases from them. 
-
-Currently working on generating a rust project that integrates schema information into the rust type system and leverages compile-time guarantees for writing queries.
-
-## Projects
-
-### [bn6f](https://github.com/dism-exe/bn6f)
-
-Reverse engineering Mega Man Battle Network 6. This reproduces the original game data from source code. It also has many derivative projects for tooling and analysis
-
-Those include:
-- [Related IDA Analysis](https://github.com/LanHikari22/GBA-IDA-Pseudo-Terminal) 
-- [Automated generation of struct layouts using lua](https://github.com/LanHikari22/GBA_Memory-Access-Scanner)
-- [Automated dumping of internal textscript within the game](https://github.com/LanHikari22/bn_textscript_dumper),
-
-Upcoming:
-- high level editing of bn6f repository, sync with ghidra, and exporting type info for gdb with [bn_repo_editor](https://github.com/LanHikari22/bn_repo_editor)
-
-### Reproduction projects
-
-[rs_repro](https://github.com/LanHikari22/rs_repro) catalogs all minimal reproducible rust examples. This allows me to reference specific repro IDs that can be setup by anyone easily. 
-
-For example, to get started quickly reading/writing [Rusty Object Notation](https://github.com/ron-rs/ron) files in rust, check out [repro003](https://github.com/LanHikari22/rs_repro/blob/main/src/repro_tracked/repro003_ron_read_write.rs): 
-
-```sh
-git clone https://github.com/LanHikari22/rs_repro.git && cd rs_repro && cargo run --features "repro003"
-```
+I am open for work if you would like to discuss.
 
 ## Fun Stats
 
