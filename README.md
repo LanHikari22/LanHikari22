@@ -2,7 +2,7 @@
 
 I'm Mohammed. I also go by Lan in this digital space we share.
 
-I'm a computer engineer. My interests are in reverse engineering software, embedded system design, software verification, and mathematics.
+I'm a computer engineer. My current interests are in reverse engineering software, embedded system design, software verification, and mathematics.
 
 I am currently learning about the proof assistant Cubical Agda, and formalizing mathematical analysis alongisde it. 
 
@@ -12,7 +12,7 @@ I care about increasing visibility into the creative process of software develop
 
 Towards this goal, I have decided to make many of my notes for open source development public. These are journals I write as I research, develop, study, and investigate. 
 
-The main work for this can be found in the repository [delta-trace](https://github.com/deltatraced/delta-trace/tree/webview) which contains notes on many topics and points to other similar note repositories. You can check categories like posts and projects [here](https://github.com/deltatraced/delta-trace/blob/webview/lan/wiki/2026/001%20Wiki%20Categories/001%20Wiki%20Categories.md).
+The main work for this can be found in the repository [delta-trace](https://github.com/deltatraced/delta-trace/tree/webview), which contains notes on many topics and points to other similar note repositories. You can check main categories like posts and projects [here](https://github.com/deltatraced/delta-trace/blob/webview/lan/wiki/2026/001%20Wiki%20Categories/001%20Wiki%20Categories.md).
 
 The note repositories use [obsidian](https://obsidian.md/). They can also largely be viewed in github via the `webview` branch.
 
@@ -20,7 +20,7 @@ The note repositories use [obsidian](https://obsidian.md/). They can also largel
 
 Feel free to contact me at mailto:lanhikarixx@gmail.com!
 
-I am open for work if you would like to discuss.
+I am open for work or collaboration if you are interested!
 
 ## Fun Stats
 
