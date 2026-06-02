@@ -22,9 +22,4 @@ I am open for work or collaboration if you are interested!
 
 ## Fun Stats
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LanHikari22)](https://github.com/LanHikari22) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LanHikari22&hide=Assembly,LLVM)](https://github.com/LanHikari22)<br>                                               |
-| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| With Assembly and LLVM (Reconstruction projects)                                                                           | Without Assembly and LLVM                                                                                                                                                                       |
-| [![GitHub Streak](https://streak-stats.demolab.com?user=LanHikari22&border_radius=6)](https://github.com/LanHikari22)      | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LanHikari22&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github) |
-
 ![LanHikari22's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LanHikari22&theme=tokyo-night&hide_border=true)
