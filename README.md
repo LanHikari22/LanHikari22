@@ -1,3 +1,5 @@
+/!\ Please find my new work in https://codeberg.org/lanh22. This profile is maintained for contributing to other projects on github and for my older works.
+
 ## Hi!
 
 I'm Mohammed. I also go by Lan in this digital space we share.
