@@ -1,4 +1,4 @@
-/!\ Please find my new work in https://codeberg.org/lanh22. This profile is maintained for contributing to other projects on github and for my older works.
+NOTE Please find my new work in https://codeberg.org/lanh22. This profile is maintained for contributing to other projects on github and for my older works.
 
 ## Hi!
 
